@@ -7,3 +7,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mongo:4.4.29
 nacos/nacos-server:v2.0.3
+rabbitmq:3.8.34-management

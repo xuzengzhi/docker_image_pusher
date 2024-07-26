@@ -9,3 +9,4 @@ mongo:4.4.29
 nacos/nacos-server:v2.0.3
 rabbitmq:3.8.34-management
 mysql:8.0.32
+mysql:8.4.1

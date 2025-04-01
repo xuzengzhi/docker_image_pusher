@@ -26,3 +26,4 @@ redis:6.2.6
 emqx/emqx:4.4.19
 emqx/emqx:4.4.9
 bladex/sentinel-dashboard:1.7.0
+nginx:1.26.3

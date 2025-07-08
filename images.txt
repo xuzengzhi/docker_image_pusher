@@ -29,3 +29,4 @@ bladex/sentinel-dashboard:1.7.0
 nginx:1.26.3
 openjdk:8-jre-slim
 --platform=linux/amd64 redis:7.2.10
+--platform=linux/arm64/v8 redis:7.2.10

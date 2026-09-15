@@ -33,4 +33,5 @@
 #--platform=linux/arm64/v8 redis:7.2.10
 #--platform=linux/amd64 fangzhengjin/kkfileview:latest
 #--platform=linux/amd64 emqx/emqx:5.0.26
---platform=linux/amd64 flashexpress/datax-web:standalone-v2.1.2
+#--platform=linux/amd64 flashexpress/datax-web:standalone-v2.1.2
+nacos/nacos-server:v2.5.2
